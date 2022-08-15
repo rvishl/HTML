@@ -56,3 +56,7 @@
 - Kind of same as findIndex, but this return the index of LAST occurence.
 
 **We do have indexOf method, but that method does not accept any callback, therefore that method cannot be used for complicated arrays.**
+
+
+
+console.log();
