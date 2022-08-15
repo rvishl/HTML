@@ -1,0 +1,38 @@
+body {
+    background-color: lightcoral;
+}
+/* p {
+    color: blue;
+} */
+
+span {
+    color: green;
+}
+
+button {
+    color: red;
+    background-color: yellow;
+}
+
+/* ID Selector - Select based on the ID */
+/* #<id> */
+
+#special {
+    color: grey;
+}
+
+[type="text"] {
+    background-color: darkcyan;
+}
+
+[href $= ".io"] {
+    background-color: yellow;
+}
+
+[href $= ".com"] {
+    background-color: red;
+}
+
+[href*="a"] {
+    background-color: black;
+}
